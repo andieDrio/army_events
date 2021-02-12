@@ -12,9 +12,8 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-
 // EDITED
+// EDITED by Groupmate
 
 Route::get('/', function () {
     return view('welcome');
